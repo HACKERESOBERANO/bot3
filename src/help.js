@@ -101,56 +101,7 @@ const help = (prefix) => {
 〲┴┬➣ USO: .blocklist
 〲┴┬➣ NOTA: Usado em grupos
 〲
-〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
-〲
-〲╭─────⊣〘 𝗖𝗢𝗠𝗔𝗡𝗗𝗢𝗦 +18 〙
-〲│
-〲┴┬➣COMANDO:  *${prefix}nekoanime*
-〲┴┬➣DESC: Imagens aleatórias de neko
-〲┴┬➣USO: Apenas envie o comando
-〲
-〲┴┬➣ COMANDO: '${prefix}loli'
-〲┴┬➣ DESC: Imagens de loli
-〲┴┬➣ USO: Apenas envie o comando
-〲
-〲┴┬➣COMANDO: '${prefix}randomanime-
-〲┴┬➣DESC: Imagens aleatórias de anime
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COMANDO: '${prefix}randomhentai'
-〲┴┬➣DESC: Imagens aleatórias de hentai
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COMANDO: '${prefix}nsfwblowjob'
-〲┴┬➣DESC: Gifs de blowsjob de hentai
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COAMANDO:  '${prefix}nsfwneko'
-〲┴┬➣DESC: Imagens de hentai neko
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COMANDO:  '${prefix}nsfwtrap'
-〲┴┬➣DESC: Imagens de hentai trap
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COMANDO:  '${prefix}nsfwloli'
-〲┴┬➣DESC: Imagens de hentai
-〲┴┬➣USO: Apenas envie o comando 
-〲┴┬➣NOTA: Funciona somente no pv do bot, ou se for adm
-〲
-〲┴┬➣COMANDO:  '${prefix}shota'
-〲┴┬➣DESC: Imagens aleatórias de shota (loli masculinas)
-〲┴┬➣USO: Apenas envie o comando 
-〲
-〲┴┬➣COMANDO:  '${prefix}pack'
-〲┴┬➣DESC: Pacotes de links +18
-〲┴┬➣USO: Apenas envie o comando
-〲
-〲┴┬➣COMANDO:  '${prefix}nsfw'
-〲┴┬➣DESC: Ativar o modo hentai no grupo 
-〲┴┬➣USO:  '${prefix}nsfw' 1/0 ativar e desativar 
-〲┴┬➣OBS: Este comando só pode ser usado se você for adm
-〲
+
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲
 〲╭─────⊣〘 𝗚𝗥𝗨𝗣𝗢 〙
